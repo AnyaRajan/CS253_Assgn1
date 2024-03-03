@@ -1,0 +1,8 @@
+Mercedes Benz false 2019 ABC123 10 5000 JohnDoe 11-06-2004 
+BMW Series true 2020 XYZ456 7 6000 Anya 12-01-2024 03-03-2024
+Audi A4 false 2018 DEF789 9 4500 EmilyBrown1 12-01-2024 18-06-2004
+Toyota Camry true 2021 GHI012 10 3500 Anya  
+Honda Civic false 2017 JKL345 7 2500 JohnDoe 03-01-2024 04-03-2024
+Ford Mustang false 2022 MNO678 8 4000 EmilyBrown1
+Chevrolet Corvette false 2023 PQR901 10 5500 JaneSmith1
+Volkswagen Golf true 2020 STU234 9 3000 Anya 

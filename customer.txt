@@ -1,0 +1,5 @@
+JohnDoe password1 ABC123,JKL345 7500 50
+JaneSmith password2 0 100
+MikeJohnson password3 0 90 
+EmilyBrown password4 DEF789 0 60
+DavidLee password5 0 20 
