@@ -1,0 +1,6 @@
+Mercedes Benz false 2019 ABC123 1 50000 JohnDoe 11-06-2004 
+BMW Series true 2020 XYZ456 2 60000 Anya 12-06-2004 03-03-2024
+Audi A4 false 2018 DEF789 3 45000 EmilyBrown1 12-06-2004 18-06-2004
+Toyota Camry true 2021 GHI012 2 35000 Anya  
+Honda Civic false 2017 JKL345 4 25000 JohnDoe 03-03-2024 3
+

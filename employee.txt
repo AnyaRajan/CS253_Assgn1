@@ -1,0 +1,6 @@
+JohnDoe1 password1  16000 100
+JaneSmith1 password2 1 40 100
+MikeJohnson1 password3 5 30 90
+EmilyBrown1 password4 DEF789 2 70
+DavidLee1 password5 7 51 20
+
