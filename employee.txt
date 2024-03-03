@@ -1,6 +1,6 @@
-JohnDoe1 password1  0 100
+JohnDoe1 password1 NA 0 100
 JaneSmith1 password2 PQR901  0 100
-MikeJohnson1 password3  0 90
+MikeJohnson1 password3 NA 0 90
 EmilyBrown1 password4 DEF789,MNO678 0 70
-DavidLee1 password5  0 20
+DavidLee1 password5 NA 0 20
 
